@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=GYUBEEN_KIM&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=cromakicuki&fontSize=60)<br>
 <h2></h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcromakicuki&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -9,7 +9,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/98381613/177465729-fe95f2bd-20ec-4f1e-8d46-1612c2f8fd63.gif" width="50%">
 
-<h2>🎈About Me🎈</h2>
+<h2>🎞About Me👀</h2>
 🎓<br>
 📜<br>
 💌<br>
