@@ -43,6 +43,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cromakicuki&theme=radical)](https://github.com/cromakicuki/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromakicuki&show_icons=true&theme=radical)
 </div>
