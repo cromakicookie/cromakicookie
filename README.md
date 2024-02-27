@@ -20,6 +20,7 @@
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white) <br>
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=Oracle&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
