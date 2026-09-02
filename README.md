@@ -36,6 +36,4 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromakicookie&show_icons=true&theme=radical)
 </div>
